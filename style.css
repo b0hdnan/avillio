@@ -103,12 +103,12 @@
    top: 175px;
    left: 285px;
    width: 440px;
-   height: 384px;
+   min-height: 384px;
 
  }
 
  .main-header {
-   height: 148px;
+   min-height: 148px;
    color: var(--green);
    font-weight: 700;
    font-size: 65px;
